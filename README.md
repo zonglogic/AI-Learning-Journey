@@ -58,8 +58,8 @@ print(num1 + num2)  # 0.3
 ## 使用方式
 
 ```bash
-git clone <repository-url>
-cd Learning_Code
+git clone https://github.com/zonglogic/AI-Learning-Journey.git
+cd AI-Learning-Journey
 python day_01/Date_Type.py
 ```
 
@@ -79,3 +79,4 @@ python day_01/Date_Type.py
 ---
 
 **Started on October 12, 2026 · Keep learning, keep building.**
+
