@@ -31,6 +31,10 @@ for i in range(10):
     print(i)
 
 #range数列
+#range(start,stop,step),范围左闭右开
+#生成数列,返回可迭代的对象
+#start默认为0,stop不可以省略
+#step是正数,表示递增数列.step是负数,表示递减数列,stop<start
 
 
 
